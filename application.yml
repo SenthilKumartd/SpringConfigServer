@@ -1,0 +1,3 @@
+nginx:
+  server:
+    name: example.com
