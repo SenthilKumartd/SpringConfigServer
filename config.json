@@ -1,5 +1,6 @@
 {
 "id":1,
 "ver":5,
-"flavour":"dev"
+"flavour":"dev",
+"server":${nginx.server.name}
 }
